@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 random.seed(42)
 
-dataset = pd.read_csv("tsla1.csv")
+dataset = pd.read_csv("tsla1.csv")     #any company dataset can be taken.
 dataset = dataset.dropna()
 dataset = dataset[['Open','High','Low','Close']]
 
