@@ -1,1 +1,1 @@
-This repository has some basic implementation of different things.
+This repository has some basic implementation of different models
